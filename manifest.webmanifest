@@ -1,0 +1,17 @@
+{
+  "name": "Health Archive",
+  "short_name": "Health",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091323",
+  "theme_color": "#091323",
+  "icons": [
+    {
+      "src": "./icon-pulse.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
